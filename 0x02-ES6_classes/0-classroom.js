@@ -12,5 +12,6 @@ export default class ClassRoom {
   set maxStudentsSize(value) {
     this._maxStudentsSize = value;
   }
+
   // Other methods or properties can be added as needed
 }
